@@ -26,6 +26,10 @@
 		},
 		{
 			"path": "ql"
+		},
+		{
+			"name": "[ado_microsoft_2Fos.fun_2F_git_2Fsimself_version_gbdevelop_attempt_build source archive]",
+			"uri": "codeql-zip-archive://1-209/c:\\Users\\nbaird.REDMOND\\AppData\\Roaming\\Code\\User\\workspaceStorage\\081031527c8cd9722b1cc5180eca6ba3\\GitHub.vscode-codeql\\simself\\ado_microsoft_2Fos.fun_2F_git_2Fsimself_version_gbdevelop_attempt_build\\src.zip"
 		}
 	],
 	"settings": {
